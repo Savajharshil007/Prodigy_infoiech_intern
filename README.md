@@ -27,3 +27,11 @@ WEBSITE: https://prodigy-infoiech-intern-qk7z.vercel.app/
 
 ![t3_img](https://github.com/user-attachments/assets/27d4c1d5-003f-4c80-b1d7-68e1dd498ac2)
 
+
+Task 5: WEATHER APP:
+
+WEBSITE: https://prodigy-infoiech-intern-nnj3.vercel.app/
+
+![t5_img](https://github.com/user-attachments/assets/f720014d-d402-4da2-b7e2-ea565ea069e6)
+
+
